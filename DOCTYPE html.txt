@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<index.html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -149,8 +149,8 @@ footer span { color:var(--accent); }
   <h2>releases</h2>
   <div class="divider"></div>
   <ul>
-    <li>Demo I — <em>Untitled</em> (2025)</li>
-    <li>EP — <em>Through Ash and Absence</em> (TBA)</li>
+    <li>Demo I â€” <em>Untitled</em> (2025)</li>
+    <li>EP â€” <em>Through Ash and Absence</em> (TBA)</li>
   </ul>
 </section>
 
@@ -172,8 +172,9 @@ footer span { color:var(--accent); }
 </section>
 
 <footer>
-  © 2025 <span>NULL</span>. All voids reserved.
+  Â© 2025 <span>NULL</span>. All voids reserved.
 </footer>
 
 </body>
 </html>
+
